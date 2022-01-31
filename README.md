@@ -18,7 +18,7 @@
   <br>
 - 👯 I want to be on the (somewhere) top of the list of open source contributors
   <br>
-- ⚡ Fun fact: I love Technology 😂
+- ⚡ Fun fact: I am Tech Enthusiast 😂
   <br>
 
 ### Connect with me:
