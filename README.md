@@ -57,10 +57,10 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/umair-riaz-official">
-  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umair-riaz-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/theumairriaz">
+  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theumairriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <br>
-  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umair-riaz-official&layout=compact&theme=algolia"/> 
+  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theumairriaz&layout=compact&theme=algolia"/> 
 </a>
 </p>
     
