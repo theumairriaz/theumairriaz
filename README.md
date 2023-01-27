@@ -1,5 +1,5 @@
 <h2>Hi There! I am Umair Riaz. 👋</h2>
-<p>I am a MERN Stack developer.</p>
+<p>I am a DevOps Engineer and a Stack developer.</p>
 <img src="https://images.unsplash.com/photo-1534802046520-4f27db7f3ae5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2458&q=80" width="100%" height="auto">
 <!-- <h3>Connect with me: -->
 
@@ -11,14 +11,14 @@
 <br/>
 <!-- --- -->
 <h3>Something about me<h3/>
-    
-- 🔭 I am currently working on Node and React Js!
+- ⚡ Currently working as DevOps Engineer
+- 🔭 Doing some developement in MERN Stack!
   <br>
-- 🌱 I’m also working on python 🐍
+- 🌱 I'vs also worked on python 🐍
   <br>
 - 👯 I want to be on the (somewhere) top of the list of open source contributors
   <br>
-- ⚡ Fun fact: I am Tech Enthusiast 😂
+- ⚡ Fun fact: I am Tech Enthusiast 💻 
   <br>
 
 ### Connect with me:
@@ -66,5 +66,5 @@
     
 [website]: https://mumairriaz.com
 [twitter]: https://twitter.com/TheUmairRiaz
-[linkedin]: https://www.linkedin.com/in/umair-riaz-8b14aab9
+[linkedin]: https://www.linkedin.com/in/TheUmairRiaz
 <br>
