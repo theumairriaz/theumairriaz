@@ -12,6 +12,7 @@
 <!-- --- -->
 <h3>Something about me<h3/>
 - ⚡ Currently working as DevOps Engineer
+<br>
 - 🔭 Doing some developement in MERN Stack!
   <br>
 - 🌱 I'vs also worked on python 🐍
