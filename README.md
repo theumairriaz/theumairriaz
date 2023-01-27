@@ -1,6 +1,6 @@
 <h2>Hi There! I am Umair Riaz. 👋</h2>
 <p>I am a DevOps Engineer and a full Stack developer.</p>
-<img src="./assets/main.png" width="100%" height="auto">
+<img src="./assets/main.jpg" width="100%" height="auto">
 <!-- <h3>Connect with me: -->
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
